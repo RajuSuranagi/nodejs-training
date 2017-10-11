@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-training",
+  "version": "1.0.0",
+  "description": "Training myself on Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajuSuranagi/nodejs-training.git"
+  },
+  "author": "Raju Gangagdhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajuSuranagi/nodejs-training/issues"
+  },
+  "homepage": "https://github.com/RajuSuranagi/nodejs-training#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
